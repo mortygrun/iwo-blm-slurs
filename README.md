@@ -5,7 +5,7 @@ This repository contains code that has been used during the research.
 - dictfeaturizer.py (from https://github.com/clips/hades)
 - word_scan.py
 - cleaned.csv (from https://github.com/clips/hades with a few edits by us)
-- retrieve_tweets.sh
+- get_tweets.sh (inside are instructions to get the tweets)
 
 ## Versions
 - Linux: 18.7.0
