@@ -15,6 +15,9 @@ This repository contains code that has been used during the research.
 First of all, make sure you get the tweets.
 In order to analyse these tweets you have to run the word_scan.py
 ```bash
-python3 word_scan.py your_tweets.txt
+python3 word_scan.py combined_2013.txt
 ```
-You can put your own tweets on the input to analyze them. Make sure you wait some time because scanning may take a few minutes, depending on the file size of course. To use the tweets that were used in this research, look at retrieve_tweets.sh.
+```bash
+python3 word_scan.py combined_2020.txt
+```
+You can put your own tweets on the input to analyze them by replacing the combined_*.txt. Make sure you wait some time because scanning may take a few minutes, depending on the file size of course. To use the tweets that were used in this research, look at retrieve_tweets.sh.
