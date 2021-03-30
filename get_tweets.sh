@@ -1,5 +1,5 @@
 # These are instructions to get the tweets and replicate the results.
-# These commands have to be entered on the ssh server
+# These commands have to be entered manually on the ssh server
 # to login to the server you need to have a RUG account
 # type this in your terminal: ssh s123456@karora.let.rug.nl
 # you will be prompted for your password.
